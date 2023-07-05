@@ -1,4 +1,18 @@
 # AgentX
+![Github Followers](https://img.shields.io/github/followers/Shashank02051997?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/Shashank02051997/AnywhereGPT-Android?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Shashank02051997/AnywhereGPT-Android?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Shashank02051997/AnywhereGPT-Android?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/shashank020597?label=Follow&style=social)
+
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Shashank02051997/AgentX-Flutter) 
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Shashank02051997/AgentX-Flutter) 
+![GitHub last commit](https://img.shields.io/github/last-commit/Shashank02051997/AgentX-Flutter) 
+![GitHub issues](https://img.shields.io/github/issues-raw/Shashank02051997/AgentX-Flutter) 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](Shashank02051997/AgentX-Flutter)
+
+<a href="https://www.linkedin.com/in/shashank-singhal-a87729b5/">
+    <img src="https://img.shields.io/badge/Support-Recommed%2FEndorse%20me%20on%20Linkedin-yellow?style=for-the-badge&logo=linkedin" alt="Recommend me on LinkedIn" /></a><br><br>
 
 An Android & iOS app consuming a [Valorant Game](https://valorant-api.com/) API to display agent list. 😉😀😁😎
 Star⭐ the repo if you like what you see😉.
@@ -6,6 +20,9 @@ Star⭐ the repo if you like what you see😉.
 ## Screenshots
 
 **Please click the image below to enlarge.**
+
+
+## App Demo
 
 
 ## ✨ Requirements
