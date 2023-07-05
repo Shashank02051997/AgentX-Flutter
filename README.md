@@ -1,8 +1,8 @@
 # AgentX
 ![Github Followers](https://img.shields.io/github/followers/Shashank02051997?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/Shashank02051997/AnywhereGPT-Android?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Shashank02051997/AnywhereGPT-Android?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/Shashank02051997/AnywhereGPT-Android?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Shashank02051997/AgentX-Flutter?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Shashank02051997/AgentX-Flutter?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Shashank02051997/AgentX-Flutter?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/shashank020597?label=Follow&style=social)
 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Shashank02051997/AgentX-Flutter) 
