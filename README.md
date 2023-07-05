@@ -62,18 +62,73 @@ If this project helps you reduce time to develop, you can give me a cup of coffe
 
 <a href="https://www.buymeacoffee.com/mXUuDW7" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
-## Getting Started
+## 💬 Discuss
 
-This project is a starting point for a Flutter application.
+Have any questions, or doubts or want to present your opinions or views? You're always welcome. You can [start discussions](https://github.com/Shashank02051997/AgentX-Flutter/discussions).
 
-Here are a few resources to get you started if this is your first Flutter project:
+# Flutter Code Execution Guide
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+This guide provides step-by-step instructions on how to run Flutter code on your local machine. Flutter is an open-source framework developed by Google for building cross-platform applications. Before you begin, ensure that you have Flutter SDK installed on your system.
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## Prerequisites
+
+Before you start, make sure you have the following installed on your machine:
+
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- [Dart SDK](https://dart.dev/get-dart)
+
+## Steps to Run Flutter Code
+
+Follow the steps below to run the Flutter code:
+
+1. Clone the project repository to your local machine using the following command:
+
+   ```bash
+   git clone <repository-url>
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd <project-directory>
+   ```
+
+3. Install the required dependencies by running the following command:
+
+   ```bash
+   flutter pub get
+   ```
+
+4. Ensure that you have an emulator/device connected or running. You can use either a physical device or an emulator to run the Flutter application.
+
+5. To start the application, run the following command:
+
+   ```bash
+   flutter run
+   ```
+
+   This command will build and run the Flutter application on the connected device/emulator. The application will open automatically once the build process is complete.
+
+6. Congratulations! You have successfully run the Flutter code on your local machine.
+
+## Additional Information
+
+- To build the Flutter application for a specific platform (Android or iOS), you can use the following commands:
+
+  - Android: `flutter build apk`
+  - iOS: `flutter build ios`
+
+  The resulting build artifacts can be found in the `build` directory of your project.
+
+- Flutter provides hot reload functionality, which allows you to see the changes in your code without restarting the application. To trigger a hot reload, simply save your changes in the code editor while the application is running.
+
+For more information on Flutter and its features, please refer to the official [Flutter documentation](https://flutter.dev/docs).
+
+# KMM App
+
+For detailed information and to explore the KMM app, please visit the official repository: [AgentX Repository](https://github.com/Musfick/AgentX)
+
+Feel free to check out the repository to delve into the code and discover the functionality of the KMM app.
 
 ## Visitors Count
 
