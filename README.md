@@ -17,6 +17,8 @@
 An Android & iOS app consuming a [Valorant Game](https://valorant-api.com/) API to display agent list. 😉😀😁😎
 Star⭐ the repo if you like what you see😉.
 
+<img width="844" alt="screenshot_9" src="https://github.com/Shashank02051997/AgentX-Flutter/assets/20399094/684b1646-e6cb-4b50-a27d-27da04e312c7">
+
 ## Screenshots
 
 **Please click the image below to enlarge.**
