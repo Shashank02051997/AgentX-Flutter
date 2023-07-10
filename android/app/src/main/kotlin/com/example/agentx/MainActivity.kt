@@ -1,4 +1,4 @@
-package com.example.agentx
+package com.shashank.agentx
 
 import io.flutter.embedding.android.FlutterActivity
 
