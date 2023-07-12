@@ -35,6 +35,9 @@ Star⭐ the repo if you like what you see😉.
 
 https://github.com/Shashank02051997/AgentX-Flutter/assets/20399094/2a98a2e8-6620-48bd-a3db-9b8b84e72da1
 
+https://github.com/Shashank02051997/AgentX-Flutter/assets/20399094/dfcf818f-3214-4649-9686-2b4c92a5eaed
+
+
 ## ✨ Requirements
 
 * Any Operating System (ie. MacOS X, Linux, Windows)
