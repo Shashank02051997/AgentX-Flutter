@@ -1,7 +1,7 @@
-import 'package:agentx/utils/snackbar_status.dart';
 import 'package:dio/dio.dart';
 
 import 'app_utils.dart';
+import 'snackbar_status.dart';
 
 class ErrorHandingInterceptor extends Interceptor {
   @override
